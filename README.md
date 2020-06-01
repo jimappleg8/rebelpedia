@@ -1,5 +1,5 @@
 # The Rebelpedia Project
-An open artifacts encyclopedia for viewers of Rebel Wisdom
+An open artifacts resource for the Rebel Wisdom community.
 
 ## About the Project
 The films released by [RebelWisdom.co.uk](https://www.RebelWisdom.co.uk/) discuss complex ideas and often include concepts and terminology that are not well-known to many of their viewers. Because existing language doesn't always communicated new ideas very well, the meaning of words and phrases used are often different from their traditional meanings in subtle and nuanced ways.
