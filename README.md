@@ -18,9 +18,9 @@ If you are interested in helping choose software or other technical aspects of t
 ## What is an Open Artifact?
 An open artifacts project is much like an open source software project except that it is not limited to software. It can include anything from written documents like this one to building blueprints, to technological designs, and more. The key is to attach an appropriate license to the work so it can stay free for use by others.
 
-In the case of this project, we are using the Creative Commons Attribution-ShareAlike 4.0 International Public License: [](https://creativecommons.org/licenses/by-sa/4.0)
+In the case of this project, we are using the **Creative Commons Attribution-ShareAlike 4.0 International Public License:** [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-When adding information to this document, you need to keep in mind the copyrights of the people your are sourcing for information. Unless they also have a comparable license on their work, it is still copyrighted and you will need to treat it as such.
+When adding information to this document, you need to consider the copyrights of the works you're sourcing for information. Unless they also have a comparable license on the work, they are still subject to copyright laws and you will need to treat them as such.
 
 For more information about Open Artifacts, visit [](https://openartifacts.org/)
 
