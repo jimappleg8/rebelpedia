@@ -13,7 +13,7 @@ Ultimately, I think the project may take the form of a wiki that anyone can edit
 
 [Rebelpedia Brainstorm document](https://docs.google.com/document/d/1YiOt60CwLd-hsPj53DIjKxcUOqmMpiwzvUn9YO02_vE/edit?usp=sharing)
 
-If you are interested in helping choose software or other technical aspects of this project, please contact Jim Applegate at jimappleg8@gmail.com and we'll figure it out.
+If you are interested in helping choose software or other technical aspects of this project, please contact Jim Applegate at jim@jimapplegate.com and we'll figure it out.
 
 ## What is an Open Artifact?
 An open artifacts project is much like an open source software project except that it is not limited to software. It can include anything from written documents like this one to building blueprints, to technological designs, and more. The key is to attach an appropriate license to the work so it can stay free for use by others.
@@ -22,5 +22,6 @@ In the case of this project, we are using the **Creative Commons Attribution-Sha
 
 When adding information to this document, you need to consider the copyrights of the works you're sourcing for information. Unless they also have a comparable license on the work, they are still subject to copyright laws and you will need to treat them as such.
 
-For more information about Open Artifacts, visit [](https://openartifacts.org/)
+For more information about Open Artifacts, visit [https://openartifacts.org/](https://openartifacts.org/)
 
+For general questions about the project, contact Jim Applegate at jim@jimapplegate.com
