@@ -1,4 +1,4 @@
-# Rebelpedia
+# The Rebelpedia Project
 An open artifacts encyclopedia for viewers of Rebel Wisdom
 
 ## About the Project
