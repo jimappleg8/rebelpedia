@@ -2,7 +2,7 @@
 An open artifacts resource for the Rebel Wisdom community.
 
 ## About the Project
-The documentary films released by the folks at [RebelWisdom.co.uk](https://www.RebelWisdom.co.uk/) discuss complex ideas and often include concepts and terminology that are not well-known to many of their viewers. Because existing language doesn't always communicated new ideas very well, the meaning of words and phrases used are often different from their traditional meanings in subtle and nuanced ways.
+The documentary films released by the folks at [RebelWisdom.co.uk](https://www.RebelWisdom.co.uk/) discuss complex ideas and often include concepts and terminology that are not well-known to many of their viewers. Because existing language doesn't always communicate new ideas very well, the meaning of words and phrases used are often different from their traditional meanings in nuanced ways.
 
 As a result, there have been calls from the Rebel Wisdom community for some kind of reference (a glossary or perhaps a more encyclopedic work) that can help those who have questions around specific words or concepts.
 
